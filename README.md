@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Junaid Khan 👋
+# Hi, I'm Junaid 👋
   A Developer focussing on building AI-powered tools, automation systems, and practical software that solves real-world problems.
 
 🔭 Currently building
