@@ -4,7 +4,7 @@
 
 🔭 Currently building
 AI-powered tools, automation systems, and full-stack applications designed to solve practical, real-world problems.<br><br>👯 I’m looking to collaborate on<br>Open-source projects, AI driven applications, developer tools, and impactful software products.<br><br>🤝 Looking for guidance with
-Scalable system architecture, production-grade deployments, and integrating AI models into robust applications.<br><br>🌱 System design principles, backend architecture, AI/ML integration, and building reliable, scalable software systems.<br><br>💬 Ask me about<br>Software development, turning ideas into working products, learning programming efficiently, and developer workflows.<br><br>⚡ Fun fact<br>I enjoy turning complex ideas into clean, functional software — and constantly improving how things are built. 🚀
+Scalable system architecture, production-grade deployments, and integrating AI models into robust applications.<br><br>🌱 System design principles, backend architecture, AI/ML integration, and building reliable, scalable software systems.<br><br>💬 Ask me about<br>Software development, turning ideas into working products, learning programming efficiently, and developer workflows.
 
 
 ## 🌐 Socials:
