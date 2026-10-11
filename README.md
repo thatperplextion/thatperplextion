@@ -10,7 +10,7 @@ I build ML systems, real-time platforms, and the interfaces people touch.
 <br>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-101011?style=for-the-badge&logoColor=white)](https://thatperplextion.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-101011?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thatperlextion)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-101011?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thatperplextion)
 [![Email](https://img.shields.io/badge/Email-101011?style=for-the-badge&logo=gmail&logoColor=white)](mailto:junaidforsure.98@gmail.com)
 
 <img src="assets/divider.svg" alt="" width="100%">
