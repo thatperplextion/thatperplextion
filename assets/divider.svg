@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 60" width="900" height="60" role="img" aria-label="divider">
+<style>.p{stroke:#7d796f;stroke-width:1.5;fill:none;stroke-dasharray:6 8;animation:d 3s linear infinite}@keyframes d{to{stroke-dashoffset:-56}}
+.d{fill:#f4f1ea;animation:b 2s ease-in-out infinite}@keyframes b{50%{opacity:.25}}</style>
+<path class="p" d="M0 30 H430"/><path class="p" d="M470 30 H900"/><circle class="d" cx="450" cy="30" r="4"/>
+</svg>
